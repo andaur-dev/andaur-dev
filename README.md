@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hola, soy Jorge Andaur Ríos
 
-<!--
-**andaur-dev/andaur-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Educador Tech** especializado en Python, Data Science y desarrollo Full Stack.  
+Acompañé a +100 estudiantes en programas Talento Digital y creo experiencias de aprendizaje que hacen la tecnología accesible.
 
-Here are some ideas to get you started:
+🔭 Actualmente:
+- Desarrollando **Pysekai**: un mundo isekai para aprender Python con narrativa gamificada
+- Preparándome para especializarme en Ciencia de Datos aplicada a negocios
+- Apoyando como Asistente de Relator en bootcamps de Python, Java y Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Lo que encontrarás en este perfil:
+- 🎓 Proyectos con enfoque pedagógico (READMEs explicativos, paso a paso)
+- 🐍 Scripts de Python para automatización y análisis de datos
+- 📊 Notebooks de análisis exploratorio con visualizaciones claras
+- 🌐 Ejemplos de Django/FastAPI con buenas prácticas
+
+🛠️ Stack principal:
+```python
+languages = ["Python", "JavaScript", "Java", "SQL"]
+frameworks = ["Django", "FastAPI", "Spring Boot", "Pandas", "Matplotlib"]
+tools = ["Git", "PostgreSQL", "Oracle Cloud", "Moodle"]
